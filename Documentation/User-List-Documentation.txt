@@ -1,0 +1,121 @@
+USER LIST DOCUMENTATION
+
+Domain: NMG.com
+Total users: 15
+
+FINANCE
+
+1. David Chen
+   Username: dchen
+   UPN: [dchen@NMG.com](mailto:dchen@NMG.com)
+   Job Title: Finance Manager
+   Department: Finance
+   Security Group: Finance-Users
+
+2. Karen Mills
+   Username: kmills
+   UPN: [kmills@NMG.com](mailto:kmills@NMG.com)
+   Job Title: Finance Analyst
+   Department: Finance
+   Security Group: Finance-Users
+
+3. Robert Hayes
+   Username: rhayes
+   UPN: [rhayes@NMG.com](mailto:rhayes@NMG.com)
+   Job Title: Payroll Specialist
+   Department: Finance
+   Security Group: Finance-Users
+
+4. Lisa Park
+   Username: lpark
+   UPN: [lpark@NMG.com](mailto:lpark@NMG.com)
+   Job Title: Accounts Payable
+   Department: Finance
+   Security Group: Finance-Users
+
+HUMAN RESOURCES
+
+5. Sandra Torres
+   Username: storres
+   UPN: [storres@NMG.com](mailto:storres@NMG.com)
+   Job Title: HR Manager
+   Department: HR
+   Security Group: HR-Users
+
+6. James Whitfield
+   Username: jwhitfield
+   UPN: [jwhitfield@NMG.com](mailto:jwhitfield@NMG.com)
+   Job Title: HR Recruiter
+   Department: HR
+   Security Group: HR-Users
+
+7. Michellke Grant
+   Username: mgrant
+   UPN: [mgrant@NMG.com](mailto:mgrant@NMG.com)
+   Job Title: Benefits Coordinator
+   Department: HR
+   Security Group: HR-Users
+
+8. Jane Cooper
+   Username: jcooper
+   UPN: [jcooper@NMG.com](mailto:jcooper@NMG.com)
+   Job Title: HR Specialist
+   Department: HR
+   Security Group: HR-Users
+
+INFORMATION TECHNOLOGY
+
+9. Marcus Johnson
+   Username: mjohnson
+   UPN: [mjohnson@NMG.com](mailto:mjohnson@NMG.com)
+   Job Title: IT Manager
+   Department: IT
+   Security Group: IT-Users
+
+10. Priya Patel
+    Username: ppatel
+    UPN: [ppatel@NMG.com](mailto:ppatel@NMG.com)
+    Job Title: Systems Administrator
+    Department: IT
+    Security Group: IT-Users
+
+11. Tyler Brooks
+    Username: tbrooks
+    UPN: [tbrooks@NMG.com](mailto:tbrooks@NMG.com)
+    Job Title: Help Desk Technician
+    Department: IT
+    Security Group: IT-Users
+
+12. Aisha Coleman
+    Username: acoleman
+    UPN: [acoleman@NMG.com](mailto:acoleman@NMG.com)
+    Job Title: Network Administrator
+    Department: IT
+    Security Group: IT-Users
+
+OPERATIONS
+
+13. Brian Foster
+    Username: bfoster
+    UPN: [bfoster@NMG.com](mailto:bfoster@NMG.com)
+    Job Title: Operations Manager
+    Department: Operations
+    Security Group: Operations-Users
+
+14. Carlos Rivera
+    Username: crivera
+    UPN: [crivera@NMG.com](mailto:crivera@NMG.com)
+    Job Title: Operations Analyst
+    Department: Operations
+    Security Group: Operations-Users
+
+15. Natalie Ross
+    Username: nross
+    UPN: [nross@NMG.com](mailto:nross@NMG.com)
+    Job Title: Operations Coordinator
+    Department: Operations
+    Security Group: Operations-Users
+
+All users are assigned to their correct organizational units and role-based security groups.
+
+Date completed: 09/18/2026
