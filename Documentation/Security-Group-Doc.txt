@@ -1,0 +1,28 @@
+SECURITY GROUP DOCUMENTATION
+
+Domain; NMG.com
+
+1. Finance
+   Organizational Unit: Finance
+   Security Group: Finance-Users
+   Purpose: Provides authorized Finance employees with access to finance files, payroll systems, and departmental   shared resources.
+
+2. Human Resources
+   Organizational Unit: HR
+   Security Group: HR-Users
+   Purpose: Provides authorized HR employees with access to employee records, payroll information, benefits systems, and onboarding documentation.
+
+3. Information Technology
+   Organizational Unit: IT
+   Security Group: IT-Users
+   Purpose: Provides authorized IT employees with access to technical support resources, administrative tools, service desk systems, and core infrastructure.
+
+4. Operations
+   Organizational Unit: Operations
+   Security Group: Operations-Users
+   Purpose: Provides authorized Operations employees with access to operational files, shared resources, and departmental systems.
+
+
+All security groups are Global Security groups and role-based access control (RBAC).
+
+Date completed: 09/18/2026
