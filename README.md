@@ -22,6 +22,7 @@ A video demonstration of the lab environment will be recorded and added during t
 * UTM
 * Role-Based Access Control (RBAC)
 * GitHub
+* Group Policy
 
 ## Project Timeline
 
