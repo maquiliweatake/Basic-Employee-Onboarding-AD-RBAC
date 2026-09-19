@@ -1,0 +1,16 @@
+Incident NMG-0047 — Resolution Report
+
+Issue
+Jane Cooper did not have the access expected for her role in the Human Resources department.
+
+Findings
+Her account was placed in the wrong organizational unit (OU) and was missing membership in the HR-Users security group.
+
+Actions Taken
+Jane Cooper’s account was moved to OU=HR,DC=NMG,DC=com. Her membership in the HR-Users security group was corrected.
+
+Verification
+The account’s placement in the HR OU and its membership in HR-Users were verified and documented with screenshots.
+
+Outcome
+Both configuration issues identified during the investigation of incident NMG-0047 were corrected.
