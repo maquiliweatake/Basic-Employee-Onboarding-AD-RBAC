@@ -10,9 +10,9 @@ I built a new Active Directory domain named NMG.com and configured NMG-DC01 as t
 
 ## Video Walkthrough
 
-Video walkthrough link: Coming soon.
+Watch the project walkthrough: [Active Directory Onboarding and access Control]
 
-A video demonstration of the lab environment will be recorded and added during the next phase of the project.
+https://www.loom.com/share/80c798de068540229b0057302645b3d6
 
 ## Tools Used
 
